@@ -1,5 +1,5 @@
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to be able to predict energy comsumption for building based on four meter types: electricity, steam, hot water and chilled water.
 
 
