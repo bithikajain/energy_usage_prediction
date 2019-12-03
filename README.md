@@ -1,3 +1,20 @@
+
+## Project Intro/Objective
+The purpose of this project is to be able to predict energy comsumption for building based on four meter types: electricity, steam, hot water and chilled water.
+
+
+### Methods Used
+* Feature Engineering
+* Gradient Boosting Decision Tree
+
+### Technologies
+* Python, matplotlib
+* Pandas, jupyter
+* Sklearn
+* Seaborn
+* LightGBM
+
+
 ### Dataset description: 
 We are given information of 1449 buildings, BUILDING_ID is a unique identifier across both the train and test datasets. 
 
