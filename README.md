@@ -14,6 +14,7 @@ The purpose of this project is to be able to predict energy comsumption for buil
 * Seaborn
 * LightGBM
 
+![Energy usage](https://github.com/bithikajain/energy_usage_prediction/blob/master/images/REW_GLobalRenewableEnergyIsStatusPositive.png)
 
 ### Dataset description: 
 We are given information of 1449 buildings, BUILDING_ID is a unique identifier across both the train and test datasets. 
